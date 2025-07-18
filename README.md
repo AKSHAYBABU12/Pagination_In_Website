@@ -1,5 +1,7 @@
 <img width="318" height="159" alt="pagination_images2" src="https://github.com/user-attachments/assets/bd9ebfed-0b7f-420b-94b4-cf5fb2fa576f" />
+
 <img width="288" height="175" alt="pagination_image 1" src="https://github.com/user-attachments/assets/0049483d-532b-4cb5-a90a-0699ea0b15dd" />
+
 ![4](https://github.com/user-attachments/assets/3dcc0b2e-19db-4a2d-be17-95433b6896d1)
 # Pagination_In_Website
 Pagination refers to the process of dividing content into separate, numbered pages, enabling users to navigate through large amounts of information more easily. This is commonly seen in websites, documents, and other digital or physical content. 
